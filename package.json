@@ -1,0 +1,22 @@
+{
+  "name": "to-do-recipes",
+  "version": "1.0.0",
+  "description": "App recipes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucaswoja/recipes.git"
+  },
+  "author": "Lucas Woja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucaswoja/recipes/issues"
+  },
+  "homepage": "https://github.com/Lucaswoja/recipes#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
